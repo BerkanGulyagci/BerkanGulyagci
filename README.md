@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @BerkanGulyagci
 -I'm interested in programming and improving my codding skills.
--  I’m currently learning C++
+- My expertise of C++, C#, and SQL is intermediate.
+- I also have experience with html, css, bootstrap and js.
+
   
 - 📫You can reach me at "berkan.gulyagci@ogr.sakarya.edu.tr"
 
