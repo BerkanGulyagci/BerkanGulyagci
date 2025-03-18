@@ -10,4 +10,4 @@
 
   
 - 📫You can reach me at "bgulyaci@gmail.com"
-- My LinkedIn profile " linkedin.com/in/berkan-gülyağcı-955776315 "
+- My LinkedIn profile linkedin.com/in/berkan-gülyağcı-955776315 
