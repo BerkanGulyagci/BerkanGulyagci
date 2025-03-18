@@ -7,5 +7,5 @@
 - I also have experience with HTML, CSS, Bootstrap and JS.
 
   
-- 📫You can reach me at "berkan.gulyagci@ogr.sakarya.edu.tr"
+- 📫You can reach me at "bgulyaci@gmail.com"
 
