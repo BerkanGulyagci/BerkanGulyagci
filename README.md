@@ -18,4 +18,4 @@ I'm interested in programming and improving my coding skills.
 
 - 📫 You can reach me at "bgulyaci@gmail.com."
 
-- My LinkedIn profile " is "linkedin.com/in/berkan-gülyağcı-955776315.
+- My LinkedIn profile  is linkedin.com/in/berkan-gülyağcı-955776315
